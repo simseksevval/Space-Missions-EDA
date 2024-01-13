@@ -9,4 +9,4 @@
   * feature extraction
   * data visualization
   * comparing the relationships between features
-* To see the details, check the kaggle link.
+* To see the details, [check my kaggle account](https://www.kaggle.com/code/sevvalsimsek/space-mission-from-1957-data-analysis)
