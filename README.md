@@ -9,4 +9,4 @@
 - feature extraction
 - data visualization
 - comparing the relationships between features
-* ljtrh
+* To see the details, check the kaggle link.
