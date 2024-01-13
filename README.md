@@ -4,5 +4,8 @@
 * The 'All Space Missions from 1957' dataset has been utilized for analyzing the launches.
 * The project covers various aspects such as:
 - data preprocessing
-**exploratory data analysis
-**handling missing values, feature extraction, data visualization, and comparing the relationships between features.
+- exploratory data analysis
+- handling missing values
+- feature extraction
+- data visualization
+- comparing the relationships between features
